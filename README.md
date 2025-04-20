@@ -1,6 +1,8 @@
 # Configuration for WSL / Linux
 Run VS Code / Anaconda on WSL
 
+[![YT](https://i.ytimg.com/vi/q4XqnLR2OBM/maxresdefault.jpg)](https://www.youtube.com/watch?v=Jc9Kz-sUFCg)
+[https://www.youtube.com/watch?v=Jc9Kz-sUFCg]()
 
 ## Remove an existing Ubunto installation
 
