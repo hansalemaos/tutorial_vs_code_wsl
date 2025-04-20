@@ -1,4 +1,4 @@
-# wsl_vscode_install
+# Configuration for WSL / Linux
 Run VS Code / Anaconda on WSL
 
 
