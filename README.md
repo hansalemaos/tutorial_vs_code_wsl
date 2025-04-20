@@ -4,7 +4,7 @@ Run VS Code / Anaconda on WSL
 [![YT](https://i.ytimg.com/vi/Jc9Kz-sUFCg/maxresdefault.jpg)](https://www.youtube.com/watch?v=Jc9Kz-sUFCg)
 [https://www.youtube.com/watch?v=Jc9Kz-sUFCg]()
 
-## Remove an existing Ubunto installation
+## Remove + install an existing Ubuntu installation
 
 ```sh
 wsl --shutdown
